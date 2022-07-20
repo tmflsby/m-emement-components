@@ -1,7 +1,9 @@
 import { App } from 'vue'
+import chooseIcon from './chooseIcon'
 import menu from './menu'
 
 const components = [
+  chooseIcon,
   menu
 ]
 
