@@ -26,6 +26,10 @@ const routes:RouteRecordRaw[] = [
       {
         path: '/chooseTime',
         component: () => import('../views/chooseTime/index.vue')
+      },
+      {
+        path: '/notification',
+        component: () => import('../views/notification/index.vue')
       }
     ]
   }

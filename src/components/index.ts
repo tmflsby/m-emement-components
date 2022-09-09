@@ -5,6 +5,8 @@ import chooseTime from './chooseTime'
 import chooseDate from './chooseDate'
 import trend from './trend'
 import menu from './menu'
+import notification from './notification'
+import list from './list'
 
 const components = [
   chooseIcon,
@@ -12,7 +14,9 @@ const components = [
   chooseTime,
   chooseDate,
   trend,
-  menu
+  menu,
+  notification,
+  list
 ]
 
 export default {
