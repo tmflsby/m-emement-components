@@ -8,6 +8,7 @@ import menu from './menu'
 import notification from './notification'
 import list from './list'
 import chooseCity from './chooseCity'
+import progress from './progress'
 
 const components = [
   chooseIcon,
@@ -18,7 +19,8 @@ const components = [
   menu,
   notification,
   list,
-  chooseCity
+  chooseCity,
+  progress
 ]
 
 export default {
