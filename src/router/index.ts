@@ -34,6 +34,10 @@ const routes:RouteRecordRaw[] = [
       {
         path: '/menu',
         component: () => import('../views/menu/index.vue')
+      },
+      {
+        path: '/chooseCity',
+        component: () => import('../views/chooseCity/index.vue')
       }
     ]
   }

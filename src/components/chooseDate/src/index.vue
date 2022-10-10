@@ -23,7 +23,7 @@
 </template>
 
 <script lang="ts" setup>
-import {defineProps, ref, watch} from 'vue'
+import { ref, watch} from 'vue'
 
 let props = defineProps({
   // 开始日期的占位符
