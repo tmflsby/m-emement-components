@@ -42,6 +42,10 @@ const routes:RouteRecordRaw[] = [
       {
         path: '/progress',
         component: () => import('../views/progress/index.vue')
+      },
+      {
+        path: '/calendar',
+        component: () => import('../views/calendar/index.vue')
       }
     ]
   }
