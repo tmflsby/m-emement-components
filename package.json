@@ -12,7 +12,9 @@
     "@fullcalendar/core": "^5.11.3",
     "@fullcalendar/daygrid": "^5.11.3",
     "@fullcalendar/interaction": "^5.11.3",
+    "axios": "^1.1.2",
     "element-plus": "^2.2.5",
+    "loadsh": "^0.0.4",
     "vue": "^3.2.25",
     "vue-router": "^4.0.16",
     "wangeditor": "^4.7.15"

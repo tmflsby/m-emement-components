@@ -11,6 +11,8 @@ import chooseCity from './chooseCity'
 import progress from './progress'
 import calendar from './calendar'
 import form from './form'
+import modalForm from './modalForm'
+import table from './table'
 
 const components = [
   chooseIcon,
@@ -24,7 +26,9 @@ const components = [
   chooseCity,
   progress,
   calendar,
-  form
+  form,
+  modalForm,
+  table
 ]
 
 export default {
