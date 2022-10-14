@@ -10,6 +10,7 @@ import list from './list'
 import chooseCity from './chooseCity'
 import progress from './progress'
 import calendar from './calendar'
+import form from './form'
 
 const components = [
   chooseIcon,
@@ -22,7 +23,8 @@ const components = [
   list,
   chooseCity,
   progress,
-  calendar
+  calendar,
+  form
 ]
 
 export default {
